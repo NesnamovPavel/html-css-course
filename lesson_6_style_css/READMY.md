@@ -1,8 +1,8 @@
-1.	Создать 3 страницы с разным содержимым (текст, картинки, подзаголовки, списки)
-2.	Создать документ my.css и поместить его в папку style
-3.	Прописать в css свойства для всех элементов: h1, h2, p
-4.	Задать для некоторых параграфов свойства через селектор класса и id на разных страницах
-5.	Задать для двух страниц фон всего документа используя запись: 
-body .fon{}
-6.	Изучить список свойств и их значений:
-font-size, width, height, text-transform, text-align, color
+1. Create 3 pages with different content (text, images, subheadings, lists)
+2. Create a file named my.css and place it in the style folder
+3. Define CSS properties for all elements: h1, h2, p
+4. Set properties for some paragraphs using class and ID selectors on different pages
+5. Set the background for the entire document on two pages using the following code:
+   body .fon{}
+6. Study the list of properties and their values:
+   font-size, width, height, text-transform, text-align, color

@@ -1,4 +1,4 @@
-1. Ознакомиться с атрибутами тега <a> и <img>
-2. Проставить ссылки с страницы page.htmk на страницу index  в папке next
-3. Проставить ссылки с страницы index.html которая в папке next на главную (index) и на page
-4. добавить текста в параграфах на главную и проставить внутринние ссылки (к h2 и h3)
+1. Review the attributes of the <a> and <img> tags
+2. Add links from the page.htmk page to the index page in the next folder
+3. Add links from the index.html page in the next folder to the home page (index) and to page
+4. Add text to the paragraphs on the home page and add internal links (to h2 and h3)

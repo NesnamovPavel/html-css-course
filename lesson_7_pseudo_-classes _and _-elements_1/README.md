@@ -1,6 +1,6 @@
-﻿1. Создать 4 псевдокласса для ссылок, в каждом задать цвет текста и цвет фона разным от других!
-2. Первую букву всех заголовков (h1, h2 и h3) сделать 24px и другого цвета, 
-не черного, ну и конечно в html у вас должны быть эти самые заголовки.
-3. Сделать первую строку в первом абзаце курсивом! Примените class к параграфу и псевдоэлемент, свойство найдите на htmlbook
-4. Сделайте небольшой параграф и в его начало и конец добавьте спец символ при помощи псевдоэлементов (:before и :after)
-5. Сделайте так, чтобы при виделении текста он был на черном фоне, а текст светло-светло серый!
+﻿1. Create 4 pseudo-classes for links, and set the text color and background color for each one to be different from the others!
+2. Make the first letter of all headings (h1, h2, and h3) 24px and a different color—
+   not black—and of course, you must have these headings in your HTML.
+3. Make the first line of the first paragraph italic! Apply a class to the paragraph and a pseudo-element; look up the property on HTMLBook.
+4. Create a short paragraph and add a special character at the beginning and end using pseudo-elements (:before and :after).
+5. Make it so that when the text is displayed, it appears on a black background, and the text is light gray!

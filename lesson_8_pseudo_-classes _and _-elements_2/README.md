@@ -1,4 +1,4 @@
-1. Сверстайте документ чередуя два параграфа изображение, два параграфа, изображение и так три раза
-2. Задайте всем трем изображениям различные свойства CSS используя селектора атрибута title
-3. Добавьте после первого параграфа 5 ссылок на сторонние сайты
-4. 2-й и 4-й ссылке задайте стили используя селектор атрибута href
+1. Format the document by alternating two paragraphs with an image, followed by two paragraphs and an image, repeating this pattern three times
+2. Apply different CSS properties to all three images using the `title` attribute selector
+3. Add 5 links to external websites after the first paragraph
+4. Apply styles to the 2nd and 4th links using the href attribute selector

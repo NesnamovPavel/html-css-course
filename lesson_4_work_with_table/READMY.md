@@ -1,8 +1,8 @@
-Заново создайте таблицу, проделав указанные ниже действия.
+Recreate the table by following the steps below.
 
-1. Зайдите в папку HomeWork, откройте в редакторе файл index
-2. Создайте таблицу с 4 строками и 6 колонками
-3. Добавьте элемент <colgroup> вверху таблицы, сразу же под тегом <table>, куда вы сможете вставлять элементы <col>.
-4. Первые два столбца надо оставить без стиля...
-5. Добавьте цвет фона для третьего и четвертого столбцов. Значением атрибута style будет  background-color:#97DB9A;
-6. Используя атрибут weight задайте ширину для четвертого столбца. Значением атрибута будет width: 42px;
+1. Go to the HomeWork folder and open the index file in your editor.
+2. Create a table with 4 rows and 6 columns.
+3. Add a colgroup element at the top of the table, immediately below the table tag, where you can insert col elements.
+4. Leave the first two columns without any styling...
+5. Add a background color to the third and fourth columns. The value of the style attribute will be background-color:#97DB9A;
+6. Use the weight attribute to set the width of the fourth column. The value of the attribute will be width: 42px;
