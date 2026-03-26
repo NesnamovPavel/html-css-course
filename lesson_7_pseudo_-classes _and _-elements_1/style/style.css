@@ -1,53 +1,47 @@
-a:hover {
-	color:red;
+a[href="#"]:hover {
+  color: rgb(193, 26, 26);
 }
 
-a:active {
-	font-size: 20px;
-	color:red;
+a[href="/"]:hover {
+  color: rgb(20, 160, 160);
 }
 
-a:link {
-	color:green;
+a[href="#asas"]:hover {
+  color: rgb(182, 95, 33);
 }
 
-a:visited {
-	color: grey;
+a[href="http://google.com"]:hover {
+  color: rgb(151, 17, 135);
 }
 
-p:first-letter {
-	font-size: 30px;
-	color: red;
+a[href="#"]:active {
+  font-size: 40px;
 }
 
-p:first-line {
-	font-weight: bold;
+a[href="/"]:active {
+  font-size: 15px;
 }
 
-input:focus {
-	background: #fffccc;
-	border-color: red;
+h1::first-letter,
+h2::first-letter,
+h3::first-letter {
+  font-size: 24px;
+  color: red;
 }
 
-input::focus {
-	background: #fffccc;
-	border-color: red;
+.test::first-line {
+  font-style: italic;
 }
 
-.test:before {
-	content: "УРА!!!"
+.test::before {
+  content: "###";
 }
 
-.test:after {
-	content: "ОКОНЧАНИЕ!!!"
+.test::after {
+  content: "###";
 }
 
 ::selection {
-	color:#fff;
-	background: #000000;
-}
-
-:selection {
-	color:#fff;
-	background: #000000;
+  background-color: black;
+  color: rgb(177, 177, 177);
 }

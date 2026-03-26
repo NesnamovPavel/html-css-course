@@ -1,0 +1,31 @@
+p {
+    text-align: center;
+}
+
+img[title="bitmap"] {
+  height: 200px;
+  width: 200px;
+}
+
+img[title="press-kit"] {
+  height: 150px;
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img[title="css-3-logo"] {
+  height: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: 0;
+}
+
+a[href="http://google.com"] {
+  color: rgb(62, 28, 201);
+}
+
+a[href="https://de.wikipedia.org/wiki/Pressemappe"] {
+  color: rgb(158, 69, 242);
+}
