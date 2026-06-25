@@ -1,0 +1,60 @@
+/*body {       Teil I
+    padding: 20px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, Verdana;
+}
+
+p {
+    font-size: 1.2em;
+    font-family: "Short Stack", cursive;
+    /*color: #f34;
+    background-color: #011;
+    text-transform: none;
+    font-variant: small-caps;
+    text-decoration: underline;
+    letter-spacing: -1px;
+    word-spacing: -1px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#hover {
+    text-decoration: overline;
+}   Teil II    */  
+
+body {
+    padding: 20px;
+}
+
+h1 {
+    text-shadow: -3px 5px 5px #999; /*горизонталь, верикаль глубина размытия и тень*/
+    text-align: center;
+}
+
+p {
+    line-height: 150%;
+    text-indent: 30px;
+    border: 1px solid #987;
+    margin-top: 20px;
+    padding-bottom: 30px;
+}
+
+h2::first-letter {
+    font-size: 40px;
+    font-weight: bold;
+    background: #000;
+    color: #fff;
+    padding: 4px;
+}
+
+ol {
+    /*list-style-type: disc; list-style-type: circle;*/
+    /*list-style-type: lower-latin;*/
+    list-style-type: upper-roman;
+    list-style-position: inside; /* позиционирование списка, которое днелает небольшой отступ */
+    /*list-style-image: url(../images/1.png);*/
+}

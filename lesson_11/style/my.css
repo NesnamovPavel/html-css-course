@@ -1,0 +1,36 @@
+body {
+  padding: 20px;
+}
+
+p.test {
+  padding: 10px;
+  }
+
+p.test2 {
+  border: 1px solid #f53;
+  background: red;
+  /*border-radius: 6px;*/
+  border-radius: 30px/10ps;
+  padding: 6px;
+  max-width: 30em;
+  min-height: 500px;
+  overflow: auto;
+  }
+
+ul li {
+    display: inline;
+}
+
+p {
+    box-shadow: 4px 4px 11px rgba(0, 0, 0, .7); /* горизонт, вертикаль, размытие */
+}
+
+h2 {
+    width: 300px;
+    padding: 15px;
+    border-width: 5px;
+    margin: 10px;
+    border: 1px solid #888;
+    box-sizing: border-box;
+
+}
