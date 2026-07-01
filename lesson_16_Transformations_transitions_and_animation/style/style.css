@@ -1,0 +1,25 @@
+body {
+    padding: 60px;
+}
+
+p.test1 {
+    width: 500px;
+    border: 1px solid #003;
+    padding: 3px;
+    /* transform: rotate(12deg); делает поворот блока в данном случае на 12° */
+    /*-webkit-transform: rotate(10deg); */
+    transform: scale(1.03);    
+}
+
+a.button {
+    font: .9em Arial, Helvetica, sans-serif;
+    border-radius: .5em;
+    background-color: rgb(52, 52, 253);
+    color: #fff;
+    padding: .5em;    
+    display: inline-block;
+}
+
+a.button:hover {       
+    transform: scale(1.3);
+}
