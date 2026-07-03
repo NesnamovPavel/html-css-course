@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Inheritance in CSS</title>
+	<link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+	<article>
+		<h1>REYD Student Form</h1>
+		<form method="post" action="/" class="subform">
+			<p>
+				<label for="name">What is your name?</label>
+				<input type="text" name="name" id="name">
+			</p>
+			<p>
+				<label for="email">Enter your email address</label>
+				<input type="email" name="email" id="email">
+			</p>
+			<p>Do you have any experience of studying this?
+				<label>
+				<input type="radio" name="skill" value="1">
+				JavaScript
+				</label>
+				<label>
+				<input type="radio" name="skill" value="2">
+				HTML & CSS
+				</label>
+				<label>
+				<input type="radio" name="skill" value="3">
+				PHP
+				</label>
+			</p>
+			<p>
+				<label for="goal">What is your objective?</label>
+				<select name="goal" id="goal">
+					<option value="">A career change</option>
+					<option value="">Improve skills</option>
+					<option value="">As a hobby</option>
+					<option value="">I want to become a freelancer</option>
+				</select>
+			</p>
+			<p>
+				<label for="comments">Your request</label>
+				<textarea name="comments" cols="40" rows="5" id="comments"></textarea>
+			</p>
+			<p>
+				<input type="submit" value="Send">
+			</p>
+		</form>
+	</article>	
+</body>
+</html>
