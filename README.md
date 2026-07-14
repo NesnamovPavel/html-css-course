@@ -19,12 +19,13 @@ After completing the course, I decided to reorganize the entire project:
 The original version is available in the `course-original` branch.
 
 git add . && git commit -m "lesson 2" && git push
+
 ⬅️
 🏠 Homepage
 ➡️
 <header>
     <nav>
-      <a href="../../../index.html">🏠 Homepage</a>
+      <a href="../../index.html">🏠 Homepage</a>
       
     </nav>
   </header>
