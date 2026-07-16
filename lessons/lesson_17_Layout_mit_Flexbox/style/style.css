@@ -1,0 +1,38 @@
+@media (min-width: 760px) {
+  .content {
+    display: flex;
+    /*align-items: flex-start;*/
+    /*align-items: center;*/
+    /*flex-direction: column*/
+  }
+
+  .content-2 {
+    display: flex;
+    justify-content: center space-around;
+  }
+
+  .boxes {
+    width: 28%;
+  }
+}
+
+.content div,
+.content-2 div {
+  border: 1px solid #234cc2;
+  padding: 12px;
+}
+
+.box-1 {
+  flex: 2;
+  order: 2;
+}
+
+.box-2 {
+  flex: 1;
+  order: 1;
+}
+
+.box-3 {
+  flex: 1;
+  order: 3;
+}
